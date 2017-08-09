@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityBashTheBeast-master", "Assembly-CSharp.csproj", "{197D37CF-8EB8-07AB-E2A3-74198D1E3667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityBashTheBeast-master", "Assembly-CSharp-Editor.csproj", "{13CDB782-9E1C-8A3D-C7C7-3BA166674104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197D37CF-8EB8-07AB-E2A3-74198D1E3667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197D37CF-8EB8-07AB-E2A3-74198D1E3667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197D37CF-8EB8-07AB-E2A3-74198D1E3667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197D37CF-8EB8-07AB-E2A3-74198D1E3667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CDB782-9E1C-8A3D-C7C7-3BA166674104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CDB782-9E1C-8A3D-C7C7-3BA166674104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CDB782-9E1C-8A3D-C7C7-3BA166674104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CDB782-9E1C-8A3D-C7C7-3BA166674104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
